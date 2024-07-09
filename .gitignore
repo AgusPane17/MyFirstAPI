@@ -1,0 +1,35 @@
+# Archivos de configuración del entorno
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Directorios de compilación
+bin/
+obj/
+.vs/
+
+# Archivos de configuración específicos del IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Paquetes de dependencias
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos de log
+*.log
+
+# Configuraciones de usuario
+*.config
+*.local
+*.local.json
+
+# Archivos generados automáticamente
+*.generated.cs
+*.gen.cs
